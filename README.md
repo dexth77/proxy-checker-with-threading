@@ -3,7 +3,7 @@ A multi-threaded proxy checker that support http(s), socks4, socks5 proxies.
 Python version. 3.8.10
 
 How to use:
-- Download required libaries from requirements.txt using `pip istall -r requirements.txt`
+- Download required libaries from requirements.txt using `pip install -r requirements.txt`
 - Put your proxies to a txt file (same folder as the script)
 - Run the script, rest is self explenatory
 
