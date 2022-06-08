@@ -12,7 +12,7 @@ _Imitate the type effect_
 ![image](https://user-images.githubusercontent.com/71338485/172382988-79daf7af-a80b-425b-9e29-4a694ed78cb6.png)
 
 
-_The main function that checks if the proxy is alive by sending it to a proxy judge _
+_The main fucntion that checks if the proxies work._
 
 ![image](https://user-images.githubusercontent.com/71338485/172383789-04bf2d1f-a0b2-4278-8680-c8e3ba271396.png)
 
